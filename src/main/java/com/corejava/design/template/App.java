@@ -1,8 +1,7 @@
-package CoreJava;
+package com.corejava.design.template;
 
-import com.corejava.classroom.GlassHouse;
-import com.corejava.classroom.HouseTemplate;
-import com.corejava.classroom.WoddenHouse;
+import com.corejava.design.template.GlassHouse;
+import com.corejava.design.template.HouseTemplate;
 
 /**
  * Hello world!

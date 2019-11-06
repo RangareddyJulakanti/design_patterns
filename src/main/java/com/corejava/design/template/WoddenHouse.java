@@ -1,4 +1,4 @@
-package com.corejava.classroom;
+package com.corejava.design.template;
 
 public class WoddenHouse extends HouseTemplate implements HouseAPI{
     @Override
